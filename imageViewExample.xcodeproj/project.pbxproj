@@ -14,6 +14,7 @@
 		9A932B192A14475E004CBBEC /* imageViewExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A932B182A14475E004CBBEC /* imageViewExampleTests.swift */; };
 		9A932B232A14475E004CBBEC /* imageViewExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A932B222A14475E004CBBEC /* imageViewExampleUITests.swift */; };
 		9A932B252A14475E004CBBEC /* imageViewExampleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A932B242A14475E004CBBEC /* imageViewExampleUITestsLaunchTests.swift */; };
+		9A932B322A14477E004CBBEC /* ImageView_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A932B312A14477E004CBBEC /* ImageView_2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		9A932B1E2A14475E004CBBEC /* imageViewExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = imageViewExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A932B222A14475E004CBBEC /* imageViewExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imageViewExampleUITests.swift; sourceTree = "<group>"; };
 		9A932B242A14475E004CBBEC /* imageViewExampleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imageViewExampleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9A932B312A14477E004CBBEC /* ImageView_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView_2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				9A932B0A2A14475E004CBBEC /* Assets.xcassets */,
 				9A932B0F2A14475E004CBBEC /* imageViewExample.entitlements */,
 				9A932B0C2A14475E004CBBEC /* Preview Content */,
+				9A932B312A14477E004CBBEC /* ImageView_2.swift */,
 			);
 			path = imageViewExample;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				9A932B092A14475D004CBBEC /* ContentView.swift in Sources */,
 				9A932B072A14475D004CBBEC /* imageViewExampleApp.swift in Sources */,
+				9A932B322A14477E004CBBEC /* ImageView_2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
